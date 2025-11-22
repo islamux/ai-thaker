@@ -281,7 +281,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 📄 License
 
-[Add your license here]
+Gnu..
 
 ---
 
@@ -296,16 +296,13 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 📞 Support
 
-For questions, issues, or suggestions:
-
-- Open an issue on GitHub
-- Contact: [Your contact information]
+Contact fathi733 @gmail.com
 
 ---
 
 ## 📱 Screenshots
 
-[Add screenshots here when ready]
+[-----]
 
 ---
 
